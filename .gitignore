@@ -31,5 +31,3 @@ bin/
 
 ###Gradle
 .gradle/
-gradle/
-gradle*
